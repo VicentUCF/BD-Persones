@@ -1,5 +1,7 @@
-[
-{id: '1', name:'vicent' email:'vicentciscar@gmail.com'},
-{id: '2', name:'plamen' email:'plamen@gmail.com'},
-{id: '3', name:'marius' email:'marius@gmail.com'},
-]
+{
+  "persones": [
+   {'id': '1', 'name':'vicent' 'email':'vicentciscar@gmail.com'},
+   {'id': '2', 'name':'plamen' 'email':'plamen@gmail.com'},
+   {'id': '3', 'name':'marius' 'email':'marius@gmail.com'},
+  ]
+}
